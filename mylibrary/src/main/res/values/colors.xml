@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="gray_bg">#EEEEEE</color>
+
+    <color name="blue_category">#A0CDEB</color>
+    <color name="divider_color">#DDDDDD</color>
+    <color name="div_line">#E0E0E0</color>
+
+    <!--文字颜色，从深到浅-->
+    <color name="tc_level_1">#333333</color>
+    <color name="tc_level_2">#555555</color>
+    <color name="tc_level_4">#999999</color>
+    <color name="tc_level_3">#757679</color>
+
+    <!-- 自定义控件PagerSlidingTabStrip -->
+    <color name="background_tab_pressed">#eeeeee</color>
+
+</resources>
